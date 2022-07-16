@@ -1,0 +1,27 @@
+
+
+
+body{
+    background-color: rgb(10, 20, 41);
+}
+
+h1 {
+    background-color: rgb(55, 243, 55);
+  }
+h2 {
+    background-color: rgb(134, 134, 230);
+  }
+h3 {
+    background-color: yellow;
+  }
+h4 {
+    background-color: pink;
+  }
+h5 {
+    background-color: gray;
+  }
+h6 {
+    background-color: orange;
+  }
+
+  
