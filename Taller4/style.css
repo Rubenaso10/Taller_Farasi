@@ -1,0 +1,30 @@
+body{
+  background-color: rgb(2, 69, 107);
+}
+
+table{
+  background-color: azure;
+  text-align: center;
+  width: 100%;
+  border-collapse:collapse;
+  font-family: cursive;
+  font-size: 20px;
+}
+
+th,td{
+  border:solid 10px rgb(6, 42, 71);
+  padding: 30px;
+}
+
+th{
+
+  background-color: rgb(218, 199, 114) ;
+  border-bottom: solid 5px #d2dbd9;
+  font-family: sans-serif;
+  font-size: 20px;
+}
+h1{
+  color: aquamarine;
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
