@@ -1,0 +1,30 @@
+.button1{
+    background-color: #ee2400; /* Green */
+    border: none;
+    color: rgb(34, 32, 32);
+    padding: 10px 50px;
+    text-align: center;
+    
+    display: inline-block;
+    font-size: 50px;
+   /* background-image: url("rosa_roja.jpg")*/;
+}
+.button2{
+    background-color: #d7e1f5; /* Green */
+    border: none;
+    color: rgb(34, 32, 32);
+    padding: 10px 50px;
+    text-align: center;
+  
+    display: inline-block;
+    font-size: 50px;
+   /* background-image: url("rosa_roja.jpg")*/;
+}
+.div1{
+    text-align:center;
+    
+}
+.div2{
+    text-align:center;
+}
+
